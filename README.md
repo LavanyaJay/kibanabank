@@ -1,4 +1,4 @@
-## Mini Healthcare App
+## Mini App to demonstrate Elasticsearch
 
 ## Table of contents
 
